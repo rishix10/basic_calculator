@@ -31,3 +31,8 @@ To get started with this project, follow these steps:
 3. Open the `index.html` file in your browser to see the calculator in action.
 
 ## Project Structure
+
+simple-calculator/
+├── index.html
+├── styles.css
+└── script.js
